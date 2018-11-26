@@ -1,0 +1,12 @@
+.clock {
+  font-family: Orbitron;
+  background-color: orange;
+  color: white;
+  font-size: 28px;
+}
+
+.clock p {
+  margin: 12px;
+  display: flex;
+  justify-content: space-between;
+}
